@@ -1,0 +1,6 @@
+Name Age Score
+John 25 45
+Alice 30 55
+Bob 40 60
+Emily 22 30
+Michael 35 70
